@@ -1,2 +1,2 @@
 # Project2
-This Temperature Converter is a simple and useful web tool that allows users to convert temperatures between Celsius and Fahrenheit. Users just need to enter a temperature value and choose the conversion type from a dropdown menu. It is built using only HTML, CSS, and JavaScript.
+This Temperature Converter is a simple and useful web tool that allows users to convert temperatures between Celsius and Fahrenheit. Users just need to enter a temperature value and choose the conversion type from a dropdown menu. It is built using only HTML, CSS, and JavaScript.  The converted result appears instantly on the screen as the user types or changes the selection. The app is easy to use, responsive, and works on both computers and mobile devices.
